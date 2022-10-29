@@ -1,0 +1,15 @@
+C:\Users\Hey John\source\repos\Rock papaer scissors\bin\Debug\net6.0\Rock papaer scissors.exe
+C:\Users\Hey John\source\repos\Rock papaer scissors\bin\Debug\net6.0\Rock papaer scissors.deps.json
+C:\Users\Hey John\source\repos\Rock papaer scissors\bin\Debug\net6.0\Rock papaer scissors.runtimeconfig.json
+C:\Users\Hey John\source\repos\Rock papaer scissors\bin\Debug\net6.0\Rock papaer scissors.dll
+C:\Users\Hey John\source\repos\Rock papaer scissors\bin\Debug\net6.0\Rock papaer scissors.pdb
+C:\Users\Hey John\source\repos\Rock papaer scissors\obj\Debug\net6.0\Rock papaer scissors.csproj.AssemblyReference.cache
+C:\Users\Hey John\source\repos\Rock papaer scissors\obj\Debug\net6.0\Rock papaer scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hey John\source\repos\Rock papaer scissors\obj\Debug\net6.0\Rock papaer scissors.AssemblyInfoInputs.cache
+C:\Users\Hey John\source\repos\Rock papaer scissors\obj\Debug\net6.0\Rock papaer scissors.AssemblyInfo.cs
+C:\Users\Hey John\source\repos\Rock papaer scissors\obj\Debug\net6.0\Rock papaer scissors.csproj.CoreCompileInputs.cache
+C:\Users\Hey John\source\repos\Rock papaer scissors\obj\Debug\net6.0\Rock papaer scissors.dll
+C:\Users\Hey John\source\repos\Rock papaer scissors\obj\Debug\net6.0\refint\Rock papaer scissors.dll
+C:\Users\Hey John\source\repos\Rock papaer scissors\obj\Debug\net6.0\Rock papaer scissors.pdb
+C:\Users\Hey John\source\repos\Rock papaer scissors\obj\Debug\net6.0\Rock papaer scissors.genruntimeconfig.cache
+C:\Users\Hey John\source\repos\Rock papaer scissors\obj\Debug\net6.0\ref\Rock papaer scissors.dll
